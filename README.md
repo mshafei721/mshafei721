@@ -4,7 +4,7 @@
 
 - 🛢️ **Project Manager in Oil & Gas**
 - 🗂️ Specialized in **Project Management**
-- 💻 I love to vibe with code and discover the open source community
+- 💻 I love to vibe code and discover the open source community
 
 ## 💬 Fun Fact
 
