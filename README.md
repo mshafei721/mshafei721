@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m @mshafei721
 
-<!--
-**mshafei721/mshafei721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🛢️ **Project Manager in Oil & Gas**
+- 🗂️ Specialized in **Project Management**
+- 💻 I love to vibe with code and discover the open source community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Fun Fact
+
+> “The best way to predict the future is to create it.” – Peter Drucker
+
+---
+Thanks for stopping by my profile!
